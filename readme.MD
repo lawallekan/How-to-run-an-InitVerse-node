@@ -1,15 +1,12 @@
 # ⚙️ How to Run an InitVerse Node: A Step-by-Step Guide ⚙️  
 
----
 
 Running an **InitVerse node** is a great way to participate in the InitVerse blockchain network, whether for mining on the testnet or mainnet. This guide will walk you through the entire process, from setting up your VPS to monitoring your mining activity. Let’s dive in!  
 
----
 
 ## **What is InitVerse?**  
 InitVerse is a decentralized blockchain platform designed to support scalable and secure applications. By running a node, you contribute to the network’s security and decentralization while earning rewards for your participation.  
 
----
 
 ## **Step 1: Set Up a VPS**  
 To run an InitVerse node, you’ll need a Virtual Private Server (VPS). Here’s how to get started:  
@@ -21,7 +18,7 @@ To run an InitVerse node, you’ll need a Virtual Private Server (VPS). Here’s
 2. **Select Ubuntu 22.04**:  
    During setup, choose **Ubuntu 22.04** as your operating system. This version is stable and widely supported.  
 
----
+
 
 ## **Step 2: Connect to Your VPS**  
 Once your VPS is ready, connect to it using SSH:  
@@ -31,7 +28,6 @@ ssh root@<IP_OF_YOUR_VPS>
 ```  
 Replace `<IP_OF_YOUR_VPS>` with your VPS’s actual IP address.  
 
----
 
 ## **Step 3: Configure Your Node**  
 Now that you’re connected, it’s time to set up your InitVerse node.  
@@ -80,7 +76,6 @@ Replace `<YOUR_WALLET_ADDRESS>` with your actual wallet address.
 ### **7. Detach from the Screen Session**  
 To leave the Screen session without stopping the miner, press `CTRL+A+D`.  
 
----
 
 ## **Step 4: Monitor Your Miner Activity**  
 Once your miner is running, you can track its performance and rewards.  
@@ -101,26 +96,24 @@ screen -r Inichain
 ```  
 Detach again with `CTRL+A+D` when done.  
 
----
 
 ## **Why Run an InitVerse Node?**  
 - **Earn Rewards**: Contribute to the network and earn cryptocurrency.  
 - **Support Decentralization**: Help secure and decentralize the InitVerse blockchain.  
 - **Learn Blockchain Technology**: Gain hands-on experience with node operation and mining.  
 
----
 
 ## **Need Help?**  
 If you encounter any issues or have questions, join the InitVerse community:  
 - **Discord**: [InitVerse Discord](https://discord.com/invite/szXyZSgSYg).  
 - **Twitter**: Follow [@allcryptoguides](https://x.com/allcryptoguides) for updates and support.  
 
----
+
 
 ## **Disclaimer**  
 This guide is for educational purposes only and does not constitute financial advice. Always conduct your own research before participating in blockchain networks.  
 
----
+
 
 **Thank you for reading!** By following this guide, you’re now ready to run your own InitVerse node and contribute to the future of decentralized technology. Happy mining!  
 
