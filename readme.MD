@@ -1,8 +1,4 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 # ⚙️ How to Run an InitVerse Node: A Step-by-Step Guide ⚙️  
-*By LaSalade*  
-*December 20, 2024*  
 
 ---
 
